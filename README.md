@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🧑‍🎓 I am studying at 'Open Web Academy';
 - 🌱 I’m currently learning Frontend programming;
 - 🤝 You can contact me through the telegram account 'https://t.me/shamshod1012'
-- 😁 I love programming!
+

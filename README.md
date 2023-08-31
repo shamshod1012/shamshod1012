@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 👦 My name is Shamshod Toshpulatov;
 - 🙂 I live in Kason district of Kashkadarya region;
-- 🧑‍🎓 I am studying at Open Web Academy;
+- 🧑‍🎓 I studied at open web academy;
 - 🌱 I’m currently learning Frontend programming;
 - 🤝 You can contact me through the telegram account https://t.me/shamshod1012
 
